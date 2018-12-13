@@ -9,7 +9,7 @@ These notes won't replace watching the course, they more of a personal reminder,
 
  - javascript is synchronous and single-threaded.
  - objects and functions are closely related.
- - javascript doesn't care if arguments are not passed to function, they will just be setted to `undefined`
+ - javascript doesn't care if arguments are not passed to function, they will just be set to `undefined`
  - everything is an object or a primitive
 
 ### Execution context
